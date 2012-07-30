@@ -1,0 +1,10 @@
+{ "author"      : "nuno job <nunojobpinto@gmail.com> (http://nunojob.com)"
+, "name"        : "env2"
+, "description" : "os agnostic environment variables"
+, "version"     : "0.0.1"
+, "homepage"    : "https://github.com/dscape/env2"
+, "repository"  : { "type": "git", "url": "git://github.com/dscape/env2.git" }
+, "main"        : "env2.js"
+, "engines"     : { "node": "~0.6.7"}
+, "dependencies": {}
+}
